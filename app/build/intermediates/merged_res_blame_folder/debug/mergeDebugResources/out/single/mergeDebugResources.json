@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "com.pulperia.inventario.app-debug-38:/menu_bottom_nav.xml.flat",
+        "source": "com.pulperia.inventario.app-main-40:/menu/bottom_nav.xml"
+    },
+    {
+        "merged": "com.pulperia.inventario.app-debug-38:/layout_fragment_summary.xml.flat",
+        "source": "com.pulperia.inventario.app-main-40:/layout/fragment_summary.xml"
+    },
+    {
+        "merged": "com.pulperia.inventario.app-debug-38:/layout_item_product.xml.flat",
+        "source": "com.pulperia.inventario.app-main-40:/layout/item_product.xml"
+    },
+    {
+        "merged": "com.pulperia.inventario.app-debug-38:/layout_item_movement.xml.flat",
+        "source": "com.pulperia.inventario.app-main-40:/layout/item_movement.xml"
+    },
+    {
+        "merged": "com.pulperia.inventario.app-debug-38:/layout_dialog_product.xml.flat",
+        "source": "com.pulperia.inventario.app-main-40:/layout/dialog_product.xml"
+    },
+    {
+        "merged": "com.pulperia.inventario.app-debug-38:/layout_fragment_movements.xml.flat",
+        "source": "com.pulperia.inventario.app-main-40:/layout/fragment_movements.xml"
+    },
+    {
+        "merged": "com.pulperia.inventario.app-debug-38:/layout_item_summary.xml.flat",
+        "source": "com.pulperia.inventario.app-main-40:/layout/item_summary.xml"
+    },
+    {
+        "merged": "com.pulperia.inventario.app-debug-38:/layout_activity_main.xml.flat",
+        "source": "com.pulperia.inventario.app-main-40:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.pulperia.inventario.app-debug-38:/layout_fragment_products.xml.flat",
+        "source": "com.pulperia.inventario.app-main-40:/layout/fragment_products.xml"
+    }
+]

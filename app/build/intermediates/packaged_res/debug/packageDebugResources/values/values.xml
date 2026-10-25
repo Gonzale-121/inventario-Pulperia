@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Pulpería</string>
+    <string name="nav_movements">Movimientos</string>
+    <string name="nav_products">Productos</string>
+    <string name="nav_summary">Resumen</string>
+    <style name="Theme.Pulperia" parent="Theme.Material3.DayNight.NoActionBar"/>
+</resources>

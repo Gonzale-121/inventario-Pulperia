@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:padding="20dp">
+
+    <EditText android:id="@+id/etName" android:layout_width="match_parent" android:layout_height="wrap_content"
+        android:hint="Nombre" android:inputType="textCapSentences" />
+    <EditText android:id="@+id/etPrice" android:layout_width="match_parent" android:layout_height="wrap_content"
+        android:hint="Precio (L)" android:inputType="numberDecimal" />
+    <EditText android:id="@+id/etStock" android:layout_width="match_parent" android:layout_height="wrap_content"
+        android:hint="Stock actual" android:inputType="number" />
+    <EditText android:id="@+id/etMinStock" android:layout_width="match_parent" android:layout_height="wrap_content"
+        android:hint="Stock mínimo (alerta)" android:inputType="number" />
+    <EditText android:id="@+id/etBarcode" android:layout_width="match_parent" android:layout_height="wrap_content"
+        android:hint="Código de barras (opcional)" android:inputType="number" />
+</LinearLayout>
